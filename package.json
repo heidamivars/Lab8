@@ -1,0 +1,22 @@
+{
+  "name": "greeting.test",
+  "version": "1.0.0",
+  "description": "jest",
+  "main": "greeting.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heidamivars/Lab8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heidamivars/Lab8/issues"
+  },
+  "homepage": "https://github.com/heidamivars/Lab8#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
